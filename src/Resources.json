@@ -1,0 +1,187 @@
+[
+    {
+        "category": "Frontend UI Frameworks",
+        "content": [
+            {
+                "name": "bootstrap",
+                "url": "https://getbootstrap.com/docs/5.0/getting-started/introduction/"
+            },
+            {
+                "name": "react",
+                "url": "https://reactjs.org/docs/getting-started.html"
+            },
+            {
+                "name": "angular",
+                "url": "https://angular.io/docs"
+            },
+            {
+                "name": "svelte",
+                "url": "https://svelte.dev/docs"
+            },
+            {
+                "name": "jQuery",
+                "url": "https://api.jquery.com/"
+            },
+            {
+                "name": "vue",
+                "url": "https://v3.vuejs.org/guide/introduction.html"
+            },
+            {
+                "name": "ember",
+                "url": "https://guides.emberjs.com/release/"
+            },
+            {
+                "name": "nextjs",
+                "url": "https://nextjs.org/docs/getting-started"
+            },
+            {
+                "name": "semantic-ui",
+                "url": "https://semantic-ui.com/"
+            },
+            {
+                "name": "backbonejs",
+                "url": "https://backbonejs.org/docs/backbone.html"
+            }
+        ]
+    },
+    {
+        "category": "Backend Server Frameworks",
+        "content": [
+            {
+                "name": "nodejs",
+                "url": "https://nodejs.org/en/docs/"
+            },
+            {
+                "name": "expressjs",
+                "url": "http://expressjs.com/en/api.html"
+            },
+            {
+                "name": "flask",
+                "url": "https://flask.palletsprojects.com/en/2.0.x/"
+            },
+            {
+                "name": "django",
+                "url": "https://docs.djangoproject.com/en/3.2/"
+            },
+            {
+                "name": "rails",
+                "url": "https://guides.rubyonrails.org/"
+            },
+            {
+                "name": "asp-net",
+                "url": "https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-5.0"
+            }
+        ]
+    },
+    {
+        "category": "Assets",
+        "content": [
+            {
+                "name": "font-awesome",
+                "url": "https://fontawesome.com/"
+            },
+            {
+                "name": "flaticon",
+                "url": "https://www.flaticon.com/"
+            },
+            {
+                "name": "icon-finder",
+                "url": "https://www.iconfinder.com/"
+            },
+            {
+                "name": "unsplash",
+                "url": "https://unsplash.com/"
+            },
+            {
+                "name": "worldvectorlogo",
+                "url": "https://worldvectorlogo.com/"
+            },
+            {
+                "name": "freepik",
+                "url": "https://www.freepik.com/"
+            },
+            {
+                "name": "octicons",
+                "url": "https://primer.style/octicons/"
+            },
+            {
+                "name": "material-icons",
+                "url": "https://fonts.google.com/icons?selected=Material+Icons"
+            }
+        ]
+    },
+    {
+        "category": "Communities",
+        "content": [
+            {
+                "name": "stack-overflow",
+                "url": "https://stackoverflow.com"
+            },
+            {
+                "name": "quora",
+                "url": "https://quora.com"
+            },
+            {
+                "name": "hashnode",
+                "url": "https://hashnode.com"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com"
+            },
+            {
+                "name": "mozilla-dev-network",
+                "url": "https://developer.mozilla.org/en-US/docs/Archive/Mozilla/Web_Developer_Community"
+            },
+            {
+                "name": "reddit",
+                "url": "https://www.reddit.com/r/programming/"
+            }
+        ]
+    },
+    {
+        "category": "Hosting Providers",
+        "content": [
+            {
+                "name": "netlify",
+                "url": "https://docs.netlify.com/"
+            },
+            {
+                "name": "surge",
+                "url": "https://surge.sh/"
+            },
+            {
+                "name": "vercel",
+                "url": "https://vercel.com/"
+            },
+            {
+                "name": "heroku",
+                "url": "https://heroku.com/"
+            },
+            {
+                "name": "azure",
+                "url": "https://azure.microsoft.com/en-us/"
+            },
+            {
+                "name": "aws",
+                "url": "https://aws.amazon.com/"
+            },
+            {
+                "name": "github",
+                "url": "https://docs.github.com/en/pages"
+            },
+            {
+                "name": "digital-ocean",
+                "url": "https://www.digitalocean.com/"
+            },
+            {
+                "name": "firebase",
+                "url": "https://console.firebase.google.com/"
+            },
+            {
+                "name": "google-app-engine",
+                "url": "https://cloud.google.com/appengine"
+            }
+        ]
+    }
+]

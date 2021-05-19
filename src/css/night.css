@@ -1,0 +1,27 @@
+#mode-toggle-container[data-mode="night"] {
+    background-color: #dddddd;
+}
+
+#mode-toggle-container label[data-mode="night"] {
+    color: black;
+}
+
+#big-sur-night {
+    background-image: url(../img/bigsur/night.jpg);
+}
+
+#catalina-night {
+    background-image: url(../img/catalina/night.jpg);
+}
+
+#mojave-night {
+    background-image: url(../img/mojave/night.jpg);
+}
+
+#sierras-night {
+    background-image: url(../img/sierras/night.jpg);
+}
+
+#hallstatt-night {
+    background-image: url(../img/hallstatt/night.jpg);
+}

@@ -1,0 +1,66 @@
+body {
+    background-color: #313131;
+}
+
+.bg {
+    width: 120vw;
+    height: 120vh;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    z-index: -10;
+}
+
+#theme-dropdown {
+    margin-left: 10px;
+}
+
+#mode-toggle-container {
+    border-radius: 13px;
+    height: 50px;
+    width: 320px;
+    margin: 20px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#mode-toggle-container[data-mode="day"] {
+    background-color: #313131;
+}
+
+#mode-toggle-container label {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#mode-toggle-container label[data-mode="day"] {
+    color: white;
+}
+
+#page-bg-img #dashboard-container {
+    z-index: 10;
+}
+
+#big-sur-day {
+    background-image: url(../img/bigsur/day.jpg);
+}
+
+#catalina-day {
+    background-image: url(../img/catalina/day.jpg);
+}
+
+#mojave-day {
+    background-image: url(../img/mojave/day.jpg);
+}
+
+#sierras-day {
+    background-image: url(../img/sierras/day.jpg);
+}
+
+#hallstatt-day {
+    background-image: url(../img/hallstatt/day.jpg);
+}

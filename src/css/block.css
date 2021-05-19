@@ -1,0 +1,46 @@
+.link-icon {
+    width: 60px;
+    height: 60px;
+    margin: 0px;
+}
+
+.links-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.link-block {
+    transition: 0.25s;
+    display: inline-flex;
+    background-color: rgba(108, 205, 230, 0.925);
+    margin: 10px;
+    border-radius: 20px;
+    width: 80px;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.164);
+}
+
+.flask-icon {
+    margin-left: 10px;
+}
+
+.react-icon {
+    background-color: #282c34;
+    border-radius: 7px;
+}
+
+.semantic-ui-icon,
+.flaticon-icon,
+.asp-net-icon {
+    border-radius: 7px;
+}
+
+.link-block:hover {
+    transition: 0.3s;
+    transform: scale3d(1.1, 1.1, 1.1);
+    box-shadow: 6px 6px 15px rgba(255, 255, 255, 0.247);
+}

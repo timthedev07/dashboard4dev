@@ -1,0 +1,53 @@
+.group-name {
+    color: white;
+    text-align: center;
+}
+
+#groups-container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+.link-groups {
+    height: min-content;
+    max-width: 330px;
+    flex-grow: 8;
+    max-height: 430px;
+    overflow-y: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none; /* IE and Edge */
+    margin: 20px;
+    border-radius: 20px;
+    border: solid black 0px;
+    background-color: rgba(7, 110, 170, 0.815);
+    padding: 10px;
+    box-shadow: 5px 5px 5px rgba(127, 204, 162, 0.247);
+}
+
+/* adjust the scale on smaller screens */
+/* @media screen and (max-width: 770px) {
+    .link-groups {
+        transform: scale(0.7);
+    }
+} */
+
+.link-groups::-webkit-scrollbar {
+    display: none;
+}
+
+/* Give different links in each group different colors */
+.group-hosting-providers .link-block {
+    background-color: rgba(255, 242, 53, 0.74);
+}
+.group-backend-server-frameworks .link-block {
+    background-color: rgba(255, 170, 12, 0.74);
+}
+.group-assets .link-block {
+    background-color: rgba(69, 230, 176, 0.74);
+}
+.group-communities .link-block {
+    background-color: rgba(255, 110, 53, 0.74);
+}
